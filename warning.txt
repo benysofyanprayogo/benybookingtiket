@@ -1,0 +1,2 @@
+kalau anda mau beli tiket harus login terlebih dahulu,,bisa di cek di database sumberalam.sql untuk melihat username dan password
+kalau mau akses halaman admin, ketik di url http://localhost/benybookingtiket/admin/,,dengan username dan password : admin
